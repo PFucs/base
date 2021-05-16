@@ -1,0 +1,5 @@
+dependencies {
+    compile project(':train-sensor')
+
+    compile group: 'com.google.guava', name: 'guava', version: '14.0'
+}
